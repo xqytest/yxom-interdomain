@@ -1,0 +1,16 @@
+{
+  "name": "yxom-interdomain",
+  "description": "Deploy interdomain server.",
+  "keywords": [
+    "github"
+  ],
+  "env": {
+    "UUID": {
+      "description": "Server UUID",
+      "value": "fd1baed6-7655-84e7-9be6-d3ff544a03d2"
+    }
+  },
+  "website": "https://github.com/xqytest/",
+  "repository": "https://github.com/xqytest/yxom-interdomain",
+  "stack": "container"
+}
